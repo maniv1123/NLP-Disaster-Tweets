@@ -31,7 +31,7 @@ Disaster tweets tend to be slightly longer.
 
 Baseline: TF-IDF + Logistic Regression → Validation F1 ≈ 0.76
 
-Sequential Model: BiLSTM with embeddings → Validation F1 ≈ 0.71
+Sequential Model: BiLSTM with embeddings → Validation F1 ≈ 0.72
 
 TF-IDF baseline outperformed BiLSTM, showing classical models can be strong on small datasets.
 
